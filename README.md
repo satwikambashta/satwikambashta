@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning java
+📫 How to reach me- simmysatwik03@outlook.com
+💬 Ask me about the tragedy of Darth Plagueis the wise
 
 <!--
 **satwikambashta/satwikambashta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
