@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning java
+I am Satwik Saurav 👨🏻‍💻; A newbie developer and designer. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time trying to learn data structures and objetc oriented programming
+
 📫 How to reach me- simmysatwik03@outlook.com
 💬 Ask me about the tragedy of Darth Plagueis the wise
 
