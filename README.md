@@ -1,4 +1,4 @@
-I am Satwik Saurav 👨🏻‍💻; A newbie developer and designer. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time trying to learn data structures and object oriented programming
+I am Satwik Saurav 👨🏻‍💻; A newbie in this field of coding. Loves to learn and explore new technologies and share the knowledge back to the community. I love to contribute and talk about the open-source while spending most of my time trying to learn data structures and object oriented programming
 
 📫 How to reach me- simmysatwik03@outlook.com
 💬 Ask me about the tragedy of Darth Plagueis the wise
