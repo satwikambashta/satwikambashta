@@ -1,7 +1,7 @@
 I am Satwik Saurav 👨🏻‍💻; A newbie in this field of coding. Loves to learn and explore new technologies and share the knowledge back to the community. I work on ML projects, web dev, and some game development in my free time.
 
-📫 How to reach me- satwiksaurav12@gmail.com
-`THANKS FOR VISITING MY GITHUB`
+📫 How to reach me- satwiksaurav12@gmail.com\
+`THANKS FOR VISITING MY GITHUB ACCOUNT`
 <!--
 **satwikambashta/satwikambashta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
