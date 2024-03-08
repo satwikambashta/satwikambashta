@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/satwik-saurav-a058aa21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heklo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/satwik-saurav-a058aa21b/" target="blank"></a>
 <a href="https://www.hackerrank.com/profile/satwikambashta" target="blank"></a>
 <a href="https://www.leetcode.com/satwikambashta" target="blank"></a>
 </p>
