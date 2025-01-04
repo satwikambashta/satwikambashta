@@ -112,3 +112,8 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satwikambashta&show_icons=true&locale=en&layout=compact" alt="heklo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satwikambashta&show_icons=true&locale=en" alt="heklo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satwikambashta&" alt="satwik" /></p> 
