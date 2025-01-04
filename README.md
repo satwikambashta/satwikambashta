@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/satwik-saurav-a058aa21b/" target="_blank">LinkedIn</a> |
   <a href="https://www.hackerrank.com/profile/satwikambashta" target="_blank">HackerRank</a> |
-  <a href="https://www.leetcode.com/satwikambashta" target="_blank">LeetCode</a>
+  <a href="https://www.leetcode.com/satwiksaurav" target="_blank">LeetCode</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
